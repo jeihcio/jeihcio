@@ -17,8 +17,8 @@
 ### Github
 
 <p align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=jeihcio&show_icons=true&theme=radical&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22'/>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jeihcio&layout=compact&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22'/></td>
+  <img src='https://github-readme-stats.vercel.app/api?username=jeihcio&show_icons=true&theme=dark'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jeihcio&layout=compact&theme=dark'/></td>
 </p>
 
 <p align="center">

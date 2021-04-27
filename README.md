@@ -1,17 +1,17 @@
 ### Jeihcio Francis
 
 ```js
-  let contato = {
-    linkedin = 'https://www.linkedin.com/in/jeihcio/',
-    medium = 'https://jeihciofrancis.medium.com/'
+  const contato = {
+    Linkedin: 'https://www.linkedin.com/in/jeihcio/',
+    Medium: 'https://jeihciofrancis.medium.com/'
   }
 ```
 
-#### Formação acadêmica
+#### Formação acadêmica :books:
 
-* PUC - Pós-graduando em Engenharia de Software
-* UFF - Tecnólogo sistemas de computação
-* IFRJ - Técnico em Serviço público
+:closed_book: PUC - Pós-graduando em Engenharia de Software <br/>
+:orange_book: UFF - Tecnólogo sistemas de computação<br/>
+:ledger: IFRJ - Técnico em Serviço público
 
 
 ### Github

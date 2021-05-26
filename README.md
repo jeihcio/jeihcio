@@ -9,9 +9,9 @@
 
 #### Formação acadêmica :books:
 
-:closed_book: PUC - Pós-graduando em Engenharia de Software <br/>
-:orange_book: UFF - Tecnólogo sistemas de computação<br/>
-:ledger: IFRJ - Técnico em Serviço público
+:closed_book: PUC - Pós-graduado em Engenharia de Software <br/>
+:orange_book: UFF - Tecnólogo em Sistemas de Computação<br/>
+:ledger: IFRJ - Técnico em Serviço Público
 
 
 ### Github

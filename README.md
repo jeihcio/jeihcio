@@ -17,8 +17,8 @@
 ### Github
 
 <div align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=jeihcio&show_icons=true&theme=dark' style="margin: 0; padding: 0"/>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jeihcio&layout=compact&theme=dark' style="margin: 0; padding: 0"/></td>
+  <img src='https://github-readme-stats.vercel.app/api?username=jeihcio&show_icons=true&theme=dark' width="500px"/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jeihcio&layout=compact&theme=dark'/></td>
 </div>
 
 <p align="center">

@@ -16,10 +16,10 @@
 
 ### Github
 
-<p align="center">
+<div align="center">
   <img src='https://github-readme-stats.vercel.app/api?username=jeihcio&show_icons=true&theme=dark'/>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jeihcio&layout=compact&theme=dark'/></td>
-</p>
+</div>
 
 <p align="center">
   <img src="https://badges.pufler.dev/visits/jeihcio/jeihcio?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/>

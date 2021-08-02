@@ -16,9 +16,9 @@
 
 ### Github
 
-<div align="center">
+<div>
   <img src='https://github-readme-stats.vercel.app/api?username=jeihcio&show_icons=true&theme=dark' width="400px"/>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jeihcio&layout=compact&theme=dark'/></td>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jeihcio&layout=compact&theme=dark' width="335px"/></td>
 </div>
 
 <p align="center">

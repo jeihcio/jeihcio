@@ -19,13 +19,13 @@
 
 #### Projetos
 
-| Java | Asp.net | Javascript
+| Asp.net | Javascript | Java (Spring) |
 | :--- | :--- | :--- | 
-| [Spring-Api-Rest](https://github.com/jeihcio/exercicio-spring-api-rest) | [Tcc-Engenharia-de-Software](https://github.com/jeihcio/tcc-engenharia-de-software) | [Ckeditor-Previewinserver-Plugin](https://github.com/jeihcio/ckeditor-previewinserver-plugin) |
-| [Spring-MVC](https://github.com/jeihcio/exercicio-spring-mvc) | [Asp.Net-Core](https://github.com/jeihcio/exercicio-asp.net-core) | [ES6](https://github.com/jeihcio/exercicio-es6) |
-| [Spring-Data-JPA](https://github.com/jeihcio/exercicio-Spring-Data-JPA) | [Asp.Net-Core-E-commerce](https://github.com/jeihcio/exercicio-asp.net-core-e-commerce) | [Chapeu-Seletor](https://github.com/jeihcio/Chapeu-Seletor) |
-| | [Test-Unitário](https://github.com/jeihcio/exercicio-test-unitario-csharp) | [Teste-de-Einstein](https://github.com/jeihcio/Teste-de-Einstein) |
-| | [Teste-Integração](https://github.com/jeihcio/exercicio-teste-integracao) | [Computação-Gráfica](https://github.com/jeihcio/Computacao-Grafica) |
+| [Tcc-Engenharia-de-Software](https://github.com/jeihcio/tcc-engenharia-de-software) | [Ckeditor-Previewinserver-Plugin](https://github.com/jeihcio/ckeditor-previewinserver-plugin) | [Api-Rest](https://github.com/jeihcio/exercicio-spring-api-rest) |
+| [Asp.Net-Core](https://github.com/jeihcio/exercicio-asp.net-core) | [ES6](https://github.com/jeihcio/exercicio-es6) | [MVC](https://github.com/jeihcio/exercicio-spring-mvc) |
+| [Asp.Net-Core-E-commerce](https://github.com/jeihcio/exercicio-asp.net-core-e-commerce) | [Chapeu-Seletor](https://github.com/jeihcio/Chapeu-Seletor) | [Data-JPA](https://github.com/jeihcio/exercicio-Spring-Data-JPA) |
+| [Test-Unitário](https://github.com/jeihcio/exercicio-test-unitario-csharp) | [Teste-de-Einstein](https://github.com/jeihcio/Teste-de-Einstein) | |
+| [Teste-Integração](https://github.com/jeihcio/exercicio-teste-integracao) | [Computação-Gráfica](https://github.com/jeihcio/Computacao-Grafica) | |
 
 #### Estatística
 

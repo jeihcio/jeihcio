@@ -27,13 +27,15 @@
 | [Test-Unitário](https://github.com/jeihcio/exercicio-test-unitario-csharp) | [Teste-de-Einstein](https://github.com/jeihcio/Teste-de-Einstein) | |
 | [Teste-Integração](https://github.com/jeihcio/exercicio-teste-integracao) | [Computação-Gráfica](https://github.com/jeihcio/Computacao-Grafica) | |
 
-| CSS Art | Angular |
-| :--- | :--- | 
-| [Animation](https://github.com/jeihcio/animation-with-css) | [Exercicio-Angular](https://github.com/jeihcio/exercicio-angular) |
-| [Camion-Meli](https://github.com/jeihcio/camion-meli-css) | |
-| [My-Self](https://github.com/jeihcio/my-self-css) | |
-| [Rick](https://github.com/jeihcio/rick-css) | |
-| [Angry-Bird](https://github.com/jeihcio/angry-bird) | |
+| Delphi | Firebird | CSS Art | Angular |
+| :--- | :--- | :--- | :--- |
+| [Comparar-Listas-Nomes](https://github.com/jeihcio/comparar-listas-nomes) | [Pesquisar-Atributos-Banco-Dados](https://github.com/jeihcio/Pesquisar-Atributos-Banco-Dados-Firebird) | [Animation](https://github.com/jeihcio/animation-with-css) | [Exercicio-Angular](https://github.com/jeihcio/exercicio-angular) |
+| [RTTI](https://github.com/jeihcio/rtti-delphi) | [Backup-Restore](https://github.com/jeihcio/backup-restore-firebird) | [Camion-Meli](https://github.com/jeihcio/camion-meli-css) | |
+| [Tradução_Campos_eSocial (ACBr)](https://github.com/jeihcio/traducao_campos_esocial) | [Verificar-Integridade](https://github.com/jeihcio/verificar-integridade-banco-firebird) | [My-Self](https://github.com/jeihcio/my-self-css) | |
+| [Validar-Enumeration-ACBrReinf (ACBr)](https://github.com/jeihcio/Validar-Enumeration-ACBrReinf) | | [Rick](https://github.com/jeihcio/rick-css) | |
+| [Flat-Design-Vcl](https://github.com/jeihcio/flat-design-vcl-delphi) | | [Angry-Bird](https://github.com/jeihcio/angry-bird) | |
+| [Generics](https://github.com/jeihcio/Exercicio-de-Generics) | | |
+| [Gerador-Modelo-DAO](https://github.com/jeihcio/gerador-modelo-DAO) | | |
 
 #### Estatística
 

@@ -7,13 +7,13 @@
   }
 ```
 
-#### Formação acadêmica :books:
+#### :books: Formação acadêmica 
 
 :closed_book: PUC - Pós-graduado em Engenharia de Software <br/>
 :orange_book: UFF - Tecnólogo em Sistemas de Computação<br/>
 :ledger: IFRJ - Técnico em Serviço Público
 
-#### Artigos
+#### :pencil: Artigos
 
 :pencil2: [Design para programadores](https://www.linkedin.com/pulse/design-para-programadores-jeihcio-francis/)<br/>
 :pencil2: [Flat design usando o VCL no Delphi](https://www.linkedin.com/pulse/flat-design-usando-o-vcl-delphi-jeihcio-francis/)<br/>
@@ -25,7 +25,7 @@
 
 ### Github
 
-#### Projetos
+#### :triangular_ruler: Projetos
 
 | Asp.net | Javascript | Java (Spring) | CSS Art |
 | :--- | :--- | :--- | :--- |
@@ -45,7 +45,7 @@
 | [Generics](https://github.com/jeihcio/Exercicio-de-Generics) | | |
 | [Gerador-Modelo-DAO](https://github.com/jeihcio/gerador-modelo-DAO) | | |
 
-#### Estatística
+#### :loudspeaker: Estatística
 
 <div>
   <img src='https://github-readme-stats.vercel.app/api?username=jeihcio&show_icons=true&theme=dark' width="400px"/>

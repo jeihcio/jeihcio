@@ -13,6 +13,14 @@
 :orange_book: UFF - Tecnólogo em Sistemas de Computação<br/>
 :ledger: IFRJ - Técnico em Serviço Público
 
+#### Artigos
+
+:pencil2: [Design para programadores](https://www.linkedin.com/pulse/design-para-programadores-jeihcio-francis/)<br/>
+:pencil2: [Flat design usando o VCL no Delphi](https://www.linkedin.com/pulse/flat-design-usando-o-vcl-delphi-jeihcio-francis/)<br/>
+:pencil2: [Criar objeto dentro ou fora do bloco do try?](https://www.linkedin.com/pulse/criar-objeto-dentro-ou-fora-do-bloco-try-jeihcio-francis/)<br/>
+:pencil2: [Onde colocar suas dependências de projeto no Delphi?](https://www.linkedin.com/pulse/onde-colocar-suas-depend%C3%AAncias-de-projeto-delphi-jeihcio-francis/)<br/>
+:pencil2: [Information no esquema](https://www.linkedin.com/pulse/information-esquema-jeihcio-francis/)<br/>
+
 ---
 
 ### Github

@@ -19,21 +19,21 @@
 
 #### Projetos
 
-| Asp.net | Javascript | Java (Spring) |
-| :--- | :--- | :--- | 
-| [Tcc-Engenharia-de-Software](https://github.com/jeihcio/tcc-engenharia-de-software) | [Ckeditor-Previewinserver-Plugin](https://github.com/jeihcio/ckeditor-previewinserver-plugin) | [Api-Rest](https://github.com/jeihcio/exercicio-spring-api-rest) |
-| [Asp.Net-Core](https://github.com/jeihcio/exercicio-asp.net-core) | [ES6](https://github.com/jeihcio/exercicio-es6) | [MVC](https://github.com/jeihcio/exercicio-spring-mvc) |
-| [Asp.Net-Core-E-commerce](https://github.com/jeihcio/exercicio-asp.net-core-e-commerce) | [Chapeu-Seletor](https://github.com/jeihcio/Chapeu-Seletor) | [Data-JPA](https://github.com/jeihcio/exercicio-Spring-Data-JPA) |
-| [Test-Unitário](https://github.com/jeihcio/exercicio-test-unitario-csharp) | [Teste-de-Einstein](https://github.com/jeihcio/Teste-de-Einstein) | |
-| [Teste-Integração](https://github.com/jeihcio/exercicio-teste-integracao) | [Computação-Gráfica](https://github.com/jeihcio/Computacao-Grafica) | |
-
-| Delphi | Firebird | CSS Art | Angular |
+| Asp.net | Javascript | Java (Spring) | CSS Art |
 | :--- | :--- | :--- | :--- |
-| [Comparar-Listas-Nomes](https://github.com/jeihcio/comparar-listas-nomes) | [Pesquisar-Atributos-Banco-Dados](https://github.com/jeihcio/Pesquisar-Atributos-Banco-Dados-Firebird) | [Animation](https://github.com/jeihcio/animation-with-css) | [Exercicio-Angular](https://github.com/jeihcio/exercicio-angular) |
-| [RTTI](https://github.com/jeihcio/rtti-delphi) | [Backup-Restore](https://github.com/jeihcio/backup-restore-firebird) | [Camion-Meli](https://github.com/jeihcio/camion-meli-css) | |
-| [Tradução_Campos_eSocial (ACBr)](https://github.com/jeihcio/traducao_campos_esocial) | [Verificar-Integridade](https://github.com/jeihcio/verificar-integridade-banco-firebird) | [My-Self](https://github.com/jeihcio/my-self-css) | |
-| [Validar-Enumeration-ACBrReinf (ACBr)](https://github.com/jeihcio/Validar-Enumeration-ACBrReinf) | | [Rick](https://github.com/jeihcio/rick-css) | |
-| [Flat-Design-Vcl](https://github.com/jeihcio/flat-design-vcl-delphi) | | [Angry-Bird](https://github.com/jeihcio/angry-bird) | |
+| [Tcc-Engenharia-de-Software](https://github.com/jeihcio/tcc-engenharia-de-software) | [Ckeditor-Previewinserver-Plugin](https://github.com/jeihcio/ckeditor-previewinserver-plugin) | [Api-Rest](https://github.com/jeihcio/exercicio-spring-api-rest) | [Animation](https://github.com/jeihcio/animation-with-css) | 
+| [Asp.Net-Core](https://github.com/jeihcio/exercicio-asp.net-core) | [ES6](https://github.com/jeihcio/exercicio-es6) | [MVC](https://github.com/jeihcio/exercicio-spring-mvc) | [Camion-Meli](https://github.com/jeihcio/camion-meli-css) | 
+| [Asp.Net-Core-E-commerce](https://github.com/jeihcio/exercicio-asp.net-core-e-commerce) | [Chapeu-Seletor](https://github.com/jeihcio/Chapeu-Seletor) | [Data-JPA](https://github.com/jeihcio/exercicio-Spring-Data-JPA) | [My-Self](https://github.com/jeihcio/my-self-css) | 
+| [Test-Unitário](https://github.com/jeihcio/exercicio-test-unitario-csharp) | [Teste-de-Einstein](https://github.com/jeihcio/Teste-de-Einstein) | | [Rick](https://github.com/jeihcio/rick-css) | 
+| [Teste-Integração](https://github.com/jeihcio/exercicio-teste-integracao) | [Computação-Gráfica](https://github.com/jeihcio/Computacao-Grafica) | | [Angry-Bird](https://github.com/jeihcio/angry-bird) | 
+
+| Delphi | Firebird | Angular |
+| :--- | :--- | :--- |
+| [Comparar-Listas-Nomes](https://github.com/jeihcio/comparar-listas-nomes) | [Pesquisar-Atributos-Banco-Dados](https://github.com/jeihcio/Pesquisar-Atributos-Banco-Dados-Firebird) | [Exercicio-Angular](https://github.com/jeihcio/exercicio-angular) |
+| [RTTI](https://github.com/jeihcio/rtti-delphi) | [Backup-Restore](https://github.com/jeihcio/backup-restore-firebird) | |
+| [Tradução_Campos_eSocial (ACBr)](https://github.com/jeihcio/traducao_campos_esocial) | [Verificar-Integridade](https://github.com/jeihcio/verificar-integridade-banco-firebird) | |
+| [Validar-Enumeration-ACBrReinf (ACBr)](https://github.com/jeihcio/Validar-Enumeration-ACBrReinf) | | |
+| [Flat-Design-Vcl](https://github.com/jeihcio/flat-design-vcl-delphi) | | |
 | [Generics](https://github.com/jeihcio/Exercicio-de-Generics) | | |
 | [Gerador-Modelo-DAO](https://github.com/jeihcio/gerador-modelo-DAO) | | |
 

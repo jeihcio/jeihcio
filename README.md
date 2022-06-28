@@ -20,6 +20,7 @@
 :pencil2: [Criar objeto dentro ou fora do bloco do try?](https://www.linkedin.com/pulse/criar-objeto-dentro-ou-fora-do-bloco-try-jeihcio-francis/)<br/>
 :pencil2: [Onde colocar suas dependências de projeto no Delphi?](https://www.linkedin.com/pulse/onde-colocar-suas-depend%C3%AAncias-de-projeto-delphi-jeihcio-francis/)<br/>
 :pencil2: [Information no esquema](https://www.linkedin.com/pulse/information-esquema-jeihcio-francis/)<br/>
+:pencil2: [Evite o Hadouken no Flutter](https://www.linkedin.com/pulse/evite-o-hadouken-flutter-jeihcio-francis/)<br/>
 
 ---
 

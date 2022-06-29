@@ -36,7 +36,7 @@
 | [Test-Unitário](https://github.com/jeihcio/exercicio-test-unitario-csharp) | [Teste-de-Einstein](https://github.com/jeihcio/Teste-de-Einstein) | | [Rick](https://github.com/jeihcio/rick-css) | 
 | [Teste-Integração](https://github.com/jeihcio/exercicio-teste-integracao) | [Computação-Gráfica](https://github.com/jeihcio/Computacao-Grafica) | | [Angry-Bird](https://github.com/jeihcio/angry-bird) | 
 
-| Delphi | Firebird | Angular |
+| Delphi | Firebird (com Delphi) | Angular |
 | :--- | :--- | :--- |
 | [Comparar-Listas-Nomes](https://github.com/jeihcio/comparar-listas-nomes) | [Pesquisar-Atributos-Banco-Dados](https://github.com/jeihcio/Pesquisar-Atributos-Banco-Dados-Firebird) | [Exercicio-Angular](https://github.com/jeihcio/exercicio-angular) |
 | [RTTI](https://github.com/jeihcio/rtti-delphi) | [Backup-Restore](https://github.com/jeihcio/backup-restore-firebird) | |

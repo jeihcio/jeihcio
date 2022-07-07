@@ -10,7 +10,7 @@
 #### :books: Formação acadêmica 
 
 :closed_book: PUC - Pós-graduado em Engenharia de Software <br/>
-:orange_book: UFF - Tecnólogo em Sistemas de Computação<br/>
+:orange_book: UFF - Graduado em Tecnologia em Sistemas de Computação<br/>
 :ledger: IFRJ - Técnico em Serviço Público
 
 #### :pencil: Artigos
